@@ -14,3 +14,5 @@ I tried to include principal parts for all verbs and nouns; they are, respective
 ## Resources
 
 A very useful resource for finding grammatical forms is [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), which contains a lot of Finnish vokabulary as well as full inflection tables.
+
+Another useful description of grammatical phenomena for learners is the [website of Kimberli Mäkäräinen](https://people.uta.fi/~km56049/finnish/) from the University of Tampere.
