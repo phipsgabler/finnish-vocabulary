@@ -69,3 +69,27 @@ Other pronoun-like words:
 - derselbe: sama, saman, samaa, samoja
 - anderer, zweiter: toinen, toisen, toista, toisia
 - viel(e), manche(r): usea, usean, useaa, useita
+
+### Postpositions
+
+With genitive (usually in triples with residing, entering and exiting locative):
+
+- an, am: ääressä, äärestä, ääreen
+- während: aikana
+- unter: alla, alta, alle
+- vor, vorn: edessä, edestä, eteen
+- nach: jäljessä, jäljestä, jälkeen
+- mit: kanssa
+- (in)mitten: kesken
+- (nahe) bei: lähellä, läheltä, lähelle
+- auf, an, drauf: päällä, päältä, päälle
+- hinter: takana, taakse, takaa
+- neben: vieressä
+- über: yllä, yltä, ylle
+- bei: luona, luo(kse), luota
+- zwischen: välissä, välistä, väliin
+- nach (Ablauf v. Zeit): kuluttua
+
+With partitive:
+
+- gegenüber: vastapäätä
