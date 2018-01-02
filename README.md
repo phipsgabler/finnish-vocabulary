@@ -93,3 +93,62 @@ With genitive (usually in triples with residing, entering and exiting locative):
 With partitive:
 
 - gegenüber: vastapäätä
+
+### Adverbs, Conjunctions, and Particles
+
+- dass, damit: että
+- und (Satzanfang): entä
+- und: ja
+- wenn, falls: jos
+- weil; wann: koska
+- als: kun
+- aber: mutta
+- denn: sillä
+- oder: tai, vai
+- sondern: vaan
+
+- ziemlich, sehr: aika
+- immer: aina
+- vielleicht: ehkä
+- nie: ei koskaan
+- gestern: eilen
+- zuerst: ensin
+- verschieden: eri
+- selten: harvoin
+- sofort: heti
+- morgen: huomenna
+- schlecht: huonasti
+- ganz: ihan
+- sehr, gut, wohl: hyvin
+- schon: ja
+- sogar: jopa
+- manchmal: joskus
+- wohl: kai
+- einmal: kerran
+- doch: kuitenkin (pos.), kuitenkan (neg.)
+- doch: kyllä
+- auch: myös
+- so: niin, sitten
+- jetzt: nyt
+- richtig, sehr: oikein
+- viel: paljon
+- weg, fort: pois
+- also: siis
+- deshalb, darum, dadurch: siksi
+- dann: sitten, silloin
+- wieder: taas
+- zurück: takaisin
+- heute: tänään
+- hier: tässä, tällä
+- natürlich: tietysti
+- dort: tuossa, tuolla
+- oft: usein
+- falsch: väärin
+- wenig, etwas: vähän
+- beispielsweise: vaikka
+- nur: vain
+- links: vasemalla
+- rechts: oikealla
+- noch: vielä
+- nur, allein: yksin
+- übermorgen: ylihuomenna
