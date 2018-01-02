@@ -96,6 +96,8 @@ With partitive:
 
 ### Adverbs, Conjunctions, and Particles
 
+Conjunctions:
+
 - dass, damit: että
 - und (Satzanfang): entä
 - und: ja
@@ -106,6 +108,8 @@ With partitive:
 - denn: sillä
 - oder: tai, vai
 - sondern: vaan
+
+Adverbs & particles:
 
 - ziemlich, sehr: aika
 - immer: aina
