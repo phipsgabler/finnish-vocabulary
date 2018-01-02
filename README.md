@@ -156,3 +156,43 @@ Adverbs & particles:
 - noch: vielä
 - nur, allein: yksin
 - übermorgen: ylihuomenna
+
+### Important verbs
+
+Mostly a random collection of verbs I often forget or forgot:
+
+- denken: ajatella
+- helfen: auttaa
+- (ab)holen: hakea
+- wollen: halua
+- verlieren, verloren gehen: hävitä
+- merken: huomata
+- gehen, besuchen: käydä (impliziert Rückkehr)
+- erzählen: kertoa
+- gehen, reisen, (mit etwas) fahren: kulkea (meistens mit Art der Fortbewegung)
+- fragen: kysyä
+- legen, stellen: laittaa
+- finden: löytää
+- glauben, vermuten: luulla
+- (weg)gehen, fahren: mennä (ohne Rückkehr)
+- (sich) erinnern: muistaa
+- (er)warten: odottaa
+- können, wissen: osata
+- kaufen: ostaa
+- nehmen: ottaa
+- legen, stellen, hintun: panna
+- mögen, gern haben: pitää
+- sprechen: puhua
+- dürfen, bekommen, tun machen: saada
+- sagen: sanoa
+- brauchen, benötigen: tarvita
+- (sich) treffen: tarvata
+- müssen: täytyä (Gen + ~ + Inf)
+- tun, machen: tehdä
+- wissen: tietää
+- kommen: tulla
+- mögen, gern machen: tykätä
+- glauben: uskoa
+- (weg)bringen: viedä
+- können (in der Lage sein): voida
+- verstehen: ymmärtää
