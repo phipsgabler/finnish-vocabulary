@@ -70,9 +70,9 @@ Other pronoun-like words:
 - anderer, zweiter: toinen, toisen, toista, toisia
 - viel(e), manche(r): usea, usean, useaa, useita
 
-### Postpositions
+### Adpositions
 
-With genitive (usually in triples with residing, entering and exiting locative):
+Postpositions with genitive (usually in triples with residing, entering and exiting locative):
 
 - an, am: ääressä, äärestä, ääreen
 - während: aikana
@@ -89,10 +89,21 @@ With genitive (usually in triples with residing, entering and exiting locative):
 - bei: luona, luo(kse), luota
 - zwischen: välissä, välistä, väliin
 - nach (Ablauf v. Zeit): kuluttua
+- um (herum): ympäri
 
-With partitive:
+Prepositions partitive:
+
+- ohne: ilman
+- vor (zeitl.): ennen
+
+Postpositions with partitive:
 
 - gegenüber: vastapäätä
+- für, wegen: varen
+
+Other:
+
+- seit: lähtien (Abess. + ~)
 
 ### Adverbs, Conjunctions, and Particles
 
