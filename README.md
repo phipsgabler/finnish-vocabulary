@@ -82,7 +82,8 @@ Postpositions with genitive (usually in triples with residing, entering and exit
 - vor, vorn: edessä, edestä, eteen
 - nach: jäljessä, jäljestä, jälkeen
 - mit: kanssa
-- (in)mitten: kesken
+- (in)mitten: keskellä, keskeltä, keskelle (auch Prep. mit Part.)
+- zwischen, unter: kesken
 - (nahe) bei: lähellä, läheltä, lähelle
 - auf, an, drauf: päällä, päältä, päälle
 - hinter: takana, taakse, takaa
@@ -93,10 +94,16 @@ Postpositions with genitive (usually in triples with residing, entering and exit
 - nach (Ablauf v. Zeit): kuluttua
 - um (herum): ympäri
 
-Prepositions partitive:
+Prepositios with genitive:
+
+- seit: sitten
+
+Prepositions with partitive:
 
 - ohne: ilman
 - vor (zeitl.): ennen
+- außer: paitsi
+- gegen: vasten (auch Postp.)
 
 Postpositions with partitive:
 
