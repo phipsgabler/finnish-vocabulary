@@ -17,6 +17,8 @@ A very useful resource for finding grammatical forms is [Wiktionary](https://en.
 
 Another useful description of grammatical phenomena for learners is the [website of Kimberli Mäkäräinen](https://people.uta.fi/~km56049/finnish/) from the University of Tampere.
 
+A quite interesing, but more technical resource is [this couple of blog posts](https://miniatureconlangs.blogspot.fi/search/label/finnish) about the Finnish partitive and the difference between morphological and syntactic accusative.
+
 ## Important Words
 
 ### Pronouns (and similar words)
