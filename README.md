@@ -87,12 +87,13 @@ Postpositions with genitive (usually in triples with residing, entering and exit
 - (nahe) bei: lähellä, läheltä, lähelle
 - auf, an, drauf: päällä, päältä, päälle
 - hinter: takana, taakse, takaa
-- neben: vieressä
+- neben: vieressä, vierestä, viereen
 - über: yllä, yltä, ylle
 - bei: luona, luo(kse), luota
 - zwischen: välissä, välistä, väliin
 - nach (Ablauf v. Zeit): kuluttua
-- um (herum): ympäri
+- um (herum): ympärillä, ympäriltä, ympärille
+- in: sisällä, sisältä, sisälle
 
 Prepositios with genitive:
 
