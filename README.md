@@ -113,7 +113,7 @@ Postpositions with partitive:
 
 Other:
 
-- seit: lähtien (Abess. + ~)
+- seit: lähtien (Elat. + ~)
 
 ### Adverbs, Conjunctions, and Particles
 
